@@ -1,0 +1,25 @@
+@media only screen and (max-width: 768px) {
+	.col-6 {
+		width: 90%;
+	}
+
+	.col-1 {
+		display: none;
+	}
+
+	.bars {
+		display: inline-block;
+	}
+
+	.col-7 {
+		width: 100%;
+	}
+
+	.col-2 {
+		width: 100%;
+	}
+
+	.col-3 {
+		width: 100%;
+	}
+}

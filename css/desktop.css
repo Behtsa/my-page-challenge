@@ -1,0 +1,14 @@
+.header, .footer {
+    background-color: #343A40;
+    color: white;
+    height: 50px;
+}
+
+.footer {
+    text-align: center;
+    height: 70px;
+}
+
+.bars {
+	display: none;
+}
